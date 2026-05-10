@@ -13,5 +13,5 @@ Bachelor of Engineering (B.E.) in Computer Science and Technology
 Jinggangshan University (JGSU), Ji'an, China | 2018 – 2022
 
 #### Research Interests
-Machine Learning for Geoscience; Computer Vision; Evolutionary Algorithm; Foundation Model; Software Development Application
+Machine Learning; Computer Vision; Evolutionary Algorithm; Foundation Model; Application Software Development
 
